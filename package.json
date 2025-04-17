@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-next-flat",
+  "name": "eslint-config-flat-next",
   "description": "eslint configuration in flat config for nextjs projects",
   "author": "Sung Hyun Kim",
   "version": "1.0.0",

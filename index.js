@@ -41,6 +41,9 @@ const recommended = [
       react: {
         version: "detect",
       },
+      "import/parsers": {
+        "@typescript-eslint/parser": [".ts", ".mts", ".cts", ".tsx", ".d.ts"],
+      },
       "import/resolver": {
         node: {
           extensions: [".js", ".jsx", ".ts", ".tsx"],
